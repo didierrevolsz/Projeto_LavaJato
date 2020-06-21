@@ -2,10 +2,10 @@
 Projeto Lava Jato. Projeto criado com finalidade de gestão administrativa e financeira. 
 
 Libs utilizadas:
--IDE - NetBeans IDE 8.2 RC
--JAVA - 1.8
--JDK 8u111
--Mysql-connector-java - 8.0.13
+- IDE - NetBeans IDE 8.2 RC
+- JAVA - 1.8
+- JDK 8u111
+- Mysql-connector-java - 8.0.13
 
 
 Funcionalidades:
